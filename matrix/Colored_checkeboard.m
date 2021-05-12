@@ -12,4 +12,4 @@ min_image = min(k(:))
 max_image = max(k(:))
 %Image display
 figure
-imshow(K)
+imshow(k)
